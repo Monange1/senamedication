@@ -1,0 +1,643 @@
+[
+  {
+    "scientific_name": "Acacia abyssinica Hochst ex. Benth",
+    "local_name": "Qontir",
+    "habit": "S",
+    "habitat": "Deciduous bushland",
+    "parts_used": "Leaves",
+    "uses": "Used for treating goiter [18, 22]"
+  },
+  {
+    "scientific_name": "Acacia nilotica (L.) Del.",
+    "local_name": "Girar",
+    "habit": "T",
+    "habitat": "Dry bushland",
+    "parts_used": "Fruits, Leaflets",
+    "uses": "For treating diarrhea, diabetes, sore gum, hemorrhage, and loose teeth. For curing sickness of stomach [19, 21, 27]"
+  },
+  {
+    "scientific_name": "Acacia albida Del.",
+    "local_name": "Grar",
+    "habit": "T",
+    "habitat": "Dry bushland",
+    "parts_used": "Latex",
+    "uses": "Latex from the stem pounded is taken with honey for curing amebiasis; for treating fire wound [13, 27]"
+  },
+  {
+    "scientific_name": "Acmella caulirhiza Del.",
+    "local_name": "Yemdir berbere",
+    "habit": "H",
+    "habitat": "Wetlands, forest floors, stream banks",
+    "parts_used": "Leaves, Flowers",
+    "uses": "Used for curing tonsillitis via chewing the flowers and spitted on tonsillitis [18, 22]"
+  },
+  {
+    "scientific_name": "Aerva javanica (Burm.f.) Schultes",
+    "local_name": "Nech shinkur",
+    "habit": "S",
+    "habitat": "Dry sandy plains, dried river course",
+    "parts_used": "Root",
+    "uses": "For treating cancer [20, 24]"
+  },
+  {
+    "scientific_name": "Allium sativum L.",
+    "local_name": "",
+    "habit": "H",
+    "habitat": "Irrigable cultivated land, home garden",
+    "parts_used": "Bulb",
+    "uses": "For preventing and treating malaria [7, 13, 18, 22, 23, 25]"
+  },
+  {
+    "scientific_name": "Amaranthus caudatus L.",
+    "local_name": "Chigogot",
+    "habit": "H",
+    "habitat": "Roadsides, riverbanks, floodplain",
+    "parts_used": "Leaves",
+    "uses": "Used for curing diarrhea via pounded and boiled leaves [18, 22]"
+  },
+  {
+    "scientific_name": "Aloe monticola Reynolds",
+    "local_name": "Eret",
+    "habit": "H",
+    "habitat": "Steep bare mountain slopes",
+    "parts_used": "Root",
+    "uses": "For also curing anthrax by pounding the root and mixing it with cold water and local alcohol [12, 22]"
+  },
+  {
+    "scientific_name": "Aloe macrocarpa Reynolds",
+    "local_name": "",
+    "habit": "H",
+    "habitat": "Rocky slopes",
+    "parts_used": "Leaves",
+    "uses": "For preventing wart by powdering leaf and then mix it with honey [12, 22, 26]"
+  },
+  {
+    "scientific_name": "Artemisia abyssinica Sch. Bip. ex. Rich",
+    "local_name": "Chigugn",
+    "habit": "H",
+    "habitat": "Juniper forest, open grassland, fallow fields",
+    "parts_used": "Fresh root",
+    "uses": "For preventing evil spirit by smelling and drinking after crushing the root and normalizing it in water [7, 22, 25]"
+  },
+  {
+    "scientific_name": "Asparagus africanus L.",
+    "local_name": "Yeset qest",
+    "habit": "H",
+    "habitat": "Acacia woodland, Forest margins",
+    "parts_used": "Roots",
+    "uses": "For curing uterine and breast cancer [17, 20, 24]"
+  },
+  {
+    "scientific_name": "Barleria eranthemoides R. Br. ex C. B. Cl",
+    "local_name": "Yeset af",
+    "habit": "S",
+    "habitat": "Acacia woodland, Scrublands",
+    "parts_used": "Roots",
+    "uses": "For curing heart burn [12]"
+  },
+  {
+    "scientific_name": "Bersama abyssinica Fresen.",
+    "local_name": "Azamir",
+    "habit": "T",
+    "habitat": "Riverine forest, rainforest",
+    "parts_used": "Leaves, stem",
+    "uses": "For treating wound by squeezing the leaves and creaming on the wound [22, 24]"
+  },
+  {
+    "scientific_name": "Bridelia scleroneura Mul. Arg.",
+    "local_name": "",
+    "habit": "T",
+    "habitat": "Open woodland, Dry riverine forest",
+    "parts_used": "Seeds",
+    "uses": "For curing skin diseases by crushing and applying on wound parts [12, 18, 19]"
+  },
+  {
+    "scientific_name": "Brucea antidysenterica Fresen.",
+    "local_name": "Abalo",
+    "habit": "S/T",
+    "habitat": "Montane, evergreen forest margins",
+    "parts_used": "Leaves",
+    "uses": "For treating cancer, skin problem, leprosy, and external parasites [6, 25]"
+  },
+  {
+    "scientific_name": "Buddleja polystachya Fresen.",
+    "local_name": "Anfar",
+    "habit": "T",
+    "habitat": "Degraded woodland in cultivated fields, around houses",
+    "parts_used": "Leaves",
+    "uses": "For treating the cattle eye diseases by chewing and spitting on the affected area [18, 22]"
+  },
+  {
+    "scientific_name": "Calpurnia aurea (Ait.) Benth.",
+    "local_name": "Digita",
+    "habit": "S",
+    "habitat": "Forest margins, bushland/grassland, favored by over grazing",
+    "parts_used": "Leaves, Roots, Seeds",
+    "uses": "For preventing poisonous snake bite by boiling the leaves and drinking with honey [12, 24]. For curing amebiasis by crushing and boiling with leaf of coffee for drink. The seeds can be used as a fish poison or as a cure for dysentery [12]"
+  },
+  {
+    "scientific_name": "Capparis tomentosa Lam",
+    "local_name": "",
+    "habit": "S",
+    "habitat": "Riverine forest, grassland with scattered trees",
+    "parts_used": "Bark",
+    "uses": "For curing sore, anthrax, and evil eye using the powder of the bark with hot water [18, 20]"
+  },
+  {
+    "scientific_name": "Carica papaya L.",
+    "local_name": "papaya",
+    "habit": "T",
+    "habitat": "Home gardens, small and large plantations",
+    "parts_used": "Seeds",
+    "uses": "Used for treating diarrhea and ascariasis by drinking the ground and boiled seeds with honey [12, 19, 27]"
+  },
+  {
+    "scientific_name": "Carissa edulis (Forsk.)",
+    "local_name": "Agam",
+    "habit": "S",
+    "habitat": "Open Acacia bushland",
+    "parts_used": "Root",
+    "uses": "Used for shorten the labor period just before delivery of women [19, 21]"
+  },
+  {
+    "scientific_name": "Carissa spinarum L.",
+    "local_name": "Agam",
+    "habit": "S",
+    "habitat": "Disturbed areas, along edges of roads, riverine vegetation",
+    "parts_used": "Roots",
+    "uses": "Used for preventing evil eye by inhaling the smoke of pounded roots. It is also used for treating wounds via applying the powder of the roots [12, 17, 19, 27]"
+  },
+  {
+    "scientific_name": "Clausena anisata (Wild.) Benth.",
+    "local_name": "Limich",
+    "habit": "S",
+    "habitat": "Montane forest margins, moist forest, secondary bushland",
+    "parts_used": "Leaves",
+    "uses": "For treating skin irritation by pounding together the leaf of C. anisata, Solanecio gigas, and Justicia schimperiana [6, 18, 20, 22]"
+  },
+  {
+    "scientific_name": "Citrus aurantifolia Swingle",
+    "local_name": "Bahre-Lomi",
+    "habit": "T",
+    "habitat": "In lowlands, evergreen forest",
+    "parts_used": "Fruit",
+    "uses": "For treating dermatophyte [6, 12, 19]"
+  },
+  {
+    "scientific_name": "Citrus sinensis (L.) Engl.",
+    "local_name": "Birtukan",
+    "habit": "S",
+    "habitat": "Cultivated in irrigable areas",
+    "parts_used": "Fruit, Bark",
+    "uses": "Used for treating stomach infection and wound [12, 18]"
+  },
+  {
+    "scientific_name": "Clematis hirsuta Per.",
+    "local_name": "Nech Azo hareg",
+    "habit": "Cl",
+    "habitat": "Edges and remnants of montane forest, roadsides, paths",
+    "parts_used": "Leaves/stems, Barks",
+    "uses": "Used for treating tumor/cancer on the neck [19, 24]"
+  },
+  {
+    "scientific_name": "Clematis simensis Fresen.",
+    "local_name": "Hareg",
+    "habit": "Cl",
+    "habitat": "",
+    "parts_used": "Leaves, Root",
+    "uses": "Used for curing wound and stomachache [12, 18]"
+  },
+  {
+    "scientific_name": "Clerodendrum myricoides (Hochst.)",
+    "local_name": "Misrich",
+    "habit": "S",
+    "habitat": "Not specified yet",
+    "parts_used": "Root",
+    "uses": "Used for treating earache and headache [12, 20]"
+  },
+  {
+    "scientific_name": "Coffee arabica L.",
+    "local_name": "Buna",
+    "habit": "S",
+    "habitat": "In shaded coffee plantations",
+    "parts_used": "Seeds",
+    "uses": "For curing diarrhea by pounding and mixing with honey [6, 12, 18]"
+  },
+  {
+    "scientific_name": "Cordia africana Lam.",
+    "local_name": "Wanza",
+    "habit": "T",
+    "habitat": "Moist evergreen forest, riverine vegetation, woodland, grassland",
+    "parts_used": "Roots",
+    "uses": "For curing itching via applying the powder of the root on the area [6, 12, 13, 18, 19]"
+  },
+  {
+    "scientific_name": "Crinum abyssinicum",
+    "local_name": "Yejb shinkurt",
+    "habit": "H",
+    "habitat": "Waterlogged valley grasslands, swampy or along stream banks, fallow fields",
+    "parts_used": "Leaves",
+    "uses": "Used as treatment of tumor in general [13, 20, 24, 25]"
+  },
+  {
+    "scientific_name": "Croton macrostachyus Hochst. ex Del.",
+    "local_name": "Bisana",
+    "habit": "T",
+    "habitat": "Forest margin, edges of roads, disturbed areas, woodland",
+    "parts_used": "Bark",
+    "uses": "For curing splenomegaly and gonorrhea [12, 17, 18, 20, 22, 25]"
+  },
+  {
+    "scientific_name": "Croton zambesicus",
+    "local_name": "Bisana",
+    "habit": "T",
+    "habitat": "Stony streambeds, within broad-leaved deciduous woodland",
+    "parts_used": "Bark",
+    "uses": "Used for treating mental disturbance [21, 27]"
+  },
+  {
+    "scientific_name": "Cucurbita pepo L.",
+    "local_name": "Duba/Yebarqil",
+    "habit": "H",
+    "habitat": "Cultivated in home garden, farmland",
+    "parts_used": "Leaves",
+    "uses": "Used as a means of treating gastritis [12, 22]"
+  },
+  {
+    "scientific_name": "Datura stramonium L.",
+    "local_name": "Atse-faris",
+    "habit": "H",
+    "habitat": "Disturbed places, waste ground, near water holes, roadsides",
+    "parts_used": "Seed",
+    "uses": "Used for treating depression [22, 25]"
+  },
+  {
+    "scientific_name": "Dodonaea angustifolia (L.fil.) J.G.West",
+    "local_name": "",
+    "habit": "S",
+    "habitat": "Not defined",
+    "parts_used": "Root",
+    "uses": "For curing toothache and wound [6, 7, 12, 18, 23]"
+  },
+  {
+    "scientific_name": "Dorstenia barnimiana Schwienf.",
+    "local_name": "Worq-bemeda",
+    "habit": "H",
+    "habitat": "Woodland bushland, upland grassland, evergreen bushland",
+    "parts_used": "Roots/tubers",
+    "uses": "For treatment of tumor visible in body surface [20, 24]"
+  },
+  {
+    "scientific_name": "Echinops kebericho, Mesfin",
+    "local_name": "Kebericho",
+    "habit": "H/S",
+    "habitat": "Montane Acacia woodland, disturbed bushland",
+    "parts_used": "Root",
+    "uses": "For treating toothache, vomiting, and headache [22, 27]"
+  },
+  {
+    "scientific_name": "Ehretia cymosa Thonn.",
+    "local_name": "Oulaga",
+    "habit": "H/S",
+    "habitat": "Montane and riverine forest, evergreen bushland, hedgerows around compounds",
+    "parts_used": "Leaves",
+    "uses": "Used for curing bleeding, fibril illness [12, 18]"
+  },
+  {
+    "scientific_name": "Eucalyptus globules Labill.",
+    "local_name": "Nech-bahirzaf",
+    "habit": "T",
+    "habitat": "A wide variety sites (plantations)",
+    "parts_used": "Leaves",
+    "uses": "Used for treating influenza and allergic [7, 13, 18, 22, 23, 26]"
+  },
+  {
+    "scientific_name": "Euclea racemosa L.",
+    "local_name": "Dedeho",
+    "habit": "S",
+    "habitat": "Open montane and bushland; in clearings and along margins",
+    "parts_used": "Roots",
+    "uses": "For treating evil spirit, evil eye, and heartburn [12, 17]"
+  },
+  {
+    "scientific_name": "Euphorbia tirucalli L.",
+    "local_name": "Qinchib",
+    "habit": "S",
+    "habitat": "Live fence of home garden",
+    "parts_used": "Roots, Latex",
+    "uses": "Used as treatment of tumor/cancer [7, 12, 23]"
+  },
+  {
+    "scientific_name": "Euphorbia abyssinica J. F. Gmel.",
+    "local_name": "Qulkual",
+    "habit": "T",
+    "habitat": "Steep rocky hillsides, around churches; live fence at higher altitudes",
+    "parts_used": "Latex",
+    "uses": "For treating skin cancer [20, 22]"
+  },
+  {
+    "scientific_name": "Rhus natalensis Beru ex Krauss.",
+    "local_name": "",
+    "habit": "H",
+    "habitat": "Acacia-Commiphora woodland, wooded grassland, near rivers on various soil types",
+    "parts_used": "Leaves",
+    "uses": "Used for treating skin wound and boils [12, 21]"
+  },
+  {
+    "scientific_name": "Ficus sycomorus L.",
+    "local_name": "Banba",
+    "habit": "T",
+    "habitat": "River and lake margins, woodland, forest edges and clearings, wooded grassland",
+    "parts_used": "Bark",
+    "uses": "For curing hepatitis [18, 19, 22]"
+  },
+  {
+    "scientific_name": "Gladiolus schweinfurthii (Baker) Goldblatt and M.P. de Vos",
+    "local_name": "Milas golgul",
+    "habit": "H",
+    "habitat": "Open grassland; Acacia woodland; rocky limestone slope",
+    "parts_used": "Root",
+    "uses": "Used for treating headache [12, 22, 24]"
+  },
+  {
+    "scientific_name": "Glinus lotoides L.",
+    "local_name": "Meterie/Amkin",
+    "habit": "H",
+    "habitat": "Disturbed sites",
+    "parts_used": "Leafy stem",
+    "uses": "For treating tapeworm"
+  },
+  {
+    "scientific_name": "Guizotia scabra (Vis.) Chiov.",
+    "local_name": "Mechi",
+    "habit": "H",
+    "habitat": "Open wasteland, grassland, weed of cultivation, roadside ditches, riverbanks",
+    "parts_used": "Leaves",
+    "uses": "Used as wound treatment [6, 22]"
+  },
+  {
+    "scientific_name": "Justicia schimperiana Hochst. ex A. (Nees) T. Anders",
+    "local_name": "Sensel",
+    "habit": "S",
+    "habitat": "Open woodland, riverine vegetation, live fence of house",
+    "parts_used": "Leaves",
+    "uses": "For preventing bat urine [6, 7, 12, 18, 20, 26]"
+  },
+  {
+    "scientific_name": "Harrisonia abyssinica",
+    "local_name": "Ddugot",
+    "habit": "S",
+    "habitat": "Montane forest and grassland",
+    "parts_used": "Barks",
+    "uses": "For giving human physical strength [21]"
+  },
+  {
+    "scientific_name": "Hagenia abyssinica (Bruccie) T.F.Gmel",
+    "local_name": "Kosso",
+    "habit": "T",
+    "habitat": "Montane forest and grassland, Moist evergreen forest",
+    "parts_used": "Fruits",
+    "uses": "Tapeworm [7, 23, 25, 26]"
+  },
+  {
+    "scientific_name": "Laggera crispata (Vahl.)",
+    "local_name": "Gemie",
+    "habit": "S",
+    "habitat": "Cultivation and waste places, grassland, riverbanks",
+    "parts_used": "Leaves",
+    "uses": "For preventing dizziness [12, 20]"
+  },
+  {
+    "scientific_name": "Maesa lanceolata Forssk",
+    "local_name": "",
+    "habit": "T/S",
+    "habitat": "Gallery forest, margin of evergreen forest, along river banks and streams, open woodland and valleys",
+    "parts_used": "Bark",
+    "uses": "For curing elephantiasis [6, 18, 26]"
+  },
+  {
+    "scientific_name": "Malva verticillata L.",
+    "local_name": "Lut",
+    "habit": "H",
+    "habitat": "Paths and clearings in upland forest, upland grassland, cultivated areas near houses",
+    "parts_used": "Root",
+    "uses": "For curing cancer/tumor [6, 18, 24, 25]"
+  },
+  {
+    "scientific_name": "Mimusops kummel A. DC.",
+    "local_name": "Safa/kummel",
+    "habit": "T/S",
+    "habitat": "In gullies, in riverine forest, in riparian woodland, in woody vegetation on lake shores",
+    "parts_used": "Root",
+    "uses": "Used for preventing lung cancer [12, 18]"
+  },
+  {
+    "scientific_name": "Moringa stenopetala (E.G. Baker) Cufod.",
+    "local_name": "Shiferaw",
+    "habit": "T",
+    "habitat": "Cultivated in terraced fields, gardens, small towns, in riverine and woodland",
+    "parts_used": "Root",
+    "uses": "Used for asthma relief [7, 12, 21]"
+  },
+  {
+    "scientific_name": "Musa sapientum L.",
+    "local_name": "Koba",
+    "habit": "H",
+    "habitat": "Cultivated on large irrigated farms and in house gardens",
+    "parts_used": "Bulb",
+    "uses": "It is taken as an abortion medicine [19, 21]"
+  },
+  {
+    "scientific_name": "Nicotiana tabacum L.",
+    "local_name": "Timbaho",
+    "habit": "H",
+    "habitat": "Cultivated in villages, home gardens, tobacco farms",
+    "parts_used": "Leaves",
+    "uses": "For treating snakebite [6, 12, 18]"
+  },
+  {
+    "scientific_name": "Nigella sativa L.",
+    "local_name": "Tikur azmud",
+    "habit": "H",
+    "habitat": "Cultivated in homesteads, in fields; growing in wild",
+    "parts_used": "Seed",
+    "uses": "Used as treatment of headache [18, 22]"
+  },
+  {
+    "scientific_name": "Ocimum lamiifolium Hochst. ex. Benth.",
+    "local_name": "Damakesie",
+    "habit": "S",
+    "habitat": "Acacia-Commiphora bush- and woodland, limestone slopes, home gardens",
+    "parts_used": "Leaves",
+    "uses": "Fibril illness [7, 12, 18, 20, 22]"
+  },
+  {
+    "scientific_name": "Olea europaea L.",
+    "local_name": "Woira",
+    "habit": "T",
+    "habitat": "Home garden, monasteries and churches, woody vegetation",
+    "parts_used": "Leaves/roots",
+    "uses": "For curing dysentery, wound, stomachache, bone TB [6, 12, 17, 18, 20, 26]"
+  },
+  {
+    "scientific_name": "Opuntia ficus-indica (L.) Miller",
+    "local_name": "Yebereha qulkual",
+    "habit": "S",
+    "habitat": "Disturbed areas, degraded areas, live fence of houses",
+    "parts_used": "Leaves",
+    "uses": "For killing malaria vectors [22, 25]"
+  },
+  {
+    "scientific_name": "Plumbago zeylanica L.",
+    "local_name": "Amira",
+    "habit": "H",
+    "habitat": "Disturbed habitats by roads and paths, bushland, woodland, savannah",
+    "parts_used": "Root",
+    "uses": "For preventing gonorrhea and hemorrhoids as well as for toothache [12, 20, 22]"
+  },
+  {
+    "scientific_name": "Verbascum sinaiticum Benth.",
+    "local_name": "",
+    "habit": "H",
+    "habitat": "Disturbed sites",
+    "parts_used": "Root/leaves",
+    "uses": "For treating heart disease, cancer, trypanosomiasis [6, 20, 27]"
+  },
+  {
+    "scientific_name": "Premna schimperi Engl.",
+    "local_name": "Chocho",
+    "habit": "S",
+    "habitat": "Degraded and secondary forests, grassy meadows and along paths in forests",
+    "parts_used": "Root, Leaves",
+    "uses": "Used for treating mastitis. Used for preventing boils [12, 18]"
+  },
+  {
+    "scientific_name": "Solanum nigrum",
+    "local_name": "Embuay",
+    "habit": "H",
+    "habitat": "In cultivation and ruderal areas, on road-, hill-, river- or streamsides; in bushland areas",
+    "parts_used": "Leaves, roots, stems",
+    "uses": "Leaf, root, and stalk are used for cancerous sores and wound treatments. Stems eaten as pot herb for virility in men and for dysmenorrhea in females, for dysentery, and sore throat [21, 24]"
+  },
+  {
+    "scientific_name": "Solanum incanum L.",
+    "local_name": "Tikur awud",
+    "habit": "H",
+    "habitat": "Cultivated and riverine gallery forest, disturbed habitats",
+    "parts_used": "Leaves/roots",
+    "uses": "Used for curing bleeding, menstruation, amebiasis [12, 17–20]"
+  },
+  {
+    "scientific_name": "Stephania abyssinica (Dill. and A. Rich.) Walp. (Etse Eyesus, Nech- Hareg)",
+    "local_name": "Yayit hareg",
+    "habit": "Cl",
+    "habitat": "In thickets bordering forest margins, hillsides, cultivated fields, in clearings",
+    "parts_used": "Root",
+    "uses": "For treating external tumor/cancer and stomachache [6, 12, 8, 24, 25]"
+  },
+  {
+    "scientific_name": "Stereospermum kunthianum Cham.",
+    "local_name": "Arziniya",
+    "habit": "S/T",
+    "habitat": "Open woodland and savanna, widespread in tropical Africa",
+    "parts_used": "Bark",
+    "uses": "Used for treating kidney via drinking the juice crushed from bark [12, 13, 19]"
+  },
+  {
+    "scientific_name": "Tamarindus indica L.",
+    "local_name": "Humer/Roqa",
+    "habit": "T",
+    "habitat": "Grassland, woodland, Combretum bushland, riparian",
+    "parts_used": "Fruit",
+    "uses": "Used for curing stomachache; it is also used for treating bile and intestinal worm using the fruit juice with hot water in the morning before breakfast [12, 19]"
+  },
+  {
+    "scientific_name": "Thunbergia ruspolii Lindau",
+    "local_name": "Marte",
+    "habit": "H",
+    "habitat": "Combretum-Terminalia woodland, grassland, wooded grassland, evergreen forest, seasonally waterlogged",
+    "parts_used": "Not reported",
+    "uses": "For curing poisonous snakebite [21]"
+  },
+  {
+    "scientific_name": "Thymus capitatus (L.) Link",
+    "local_name": "Tosign",
+    "habit": "H",
+    "habitat": "Not reported",
+    "parts_used": "Leaves",
+    "uses": "For curing stomach diseases, cough, and asthma [21, 25]"
+  },
+  {
+    "scientific_name": "Tragia cordata Michx.",
+    "local_name": "Alebilabet",
+    "habit": "H",
+    "habitat": "Among open rock bushlands",
+    "parts_used": "Root",
+    "uses": "For treating urinary tract and external parasite [12, 18, 19]"
+  },
+  {
+    "scientific_name": "Tribulus terrestris L.",
+    "local_name": "Kurnchit",
+    "habit": "H",
+    "habitat": "Open and disturbed places, often on sandy soils",
+    "parts_used": "Stem, Fruit, Seed",
+    "uses": "For curing scabrous skin diseases. For congestion, headache, hepatitis, liver, vertigo, stomatitis, kidneys, liver, and vision. For treating anemia, hemorrhoid coughs, fluxes, and stomatitis [21]"
+  },
+  {
+    "scientific_name": "Urtica pilulifera L.",
+    "local_name": "Sama",
+    "habit": "H",
+    "habitat": "Unknown",
+    "parts_used": "Leaves",
+    "uses": "For curing sore joints by mixing the plant juice with oil; provide cure for rheumatism and hemorrhage [18, 21]"
+  },
+  {
+    "scientific_name": "Vernonia amygdalina Del.",
+    "local_name": "Girawa",
+    "habit": "S",
+    "habitat": "Bush/woodland, forest habitats, home gardens",
+    "parts_used": "Leaves",
+    "uses": "For preventing headache and intestinal worm and for treating tumor/cancer in general [6, 7, 12, 18, 20, 22, 24, 26, 27]"
+  },
+  {
+    "scientific_name": "Xanthium strumarium L.",
+    "local_name": "Deha nikel",
+    "habit": "H",
+    "habitat": "Wet forest margins, in riverine vegetation by streamside",
+    "parts_used": "Leaves",
+    "uses": "Used for treating dandruff [12, 27]"
+  },
+  {
+    "scientific_name": "Ximenia americana L.",
+    "local_name": "Enkoy",
+    "habit": "S",
+    "habitat": "Acacia woodland, Acacia-Ballanites, woodland, Combretum-Terminalia, wooded grassland",
+    "parts_used": "Fruit, Kernel, Root",
+    "uses": "Oil from the fruit kernel is applied to fresh wounds to prevent infections and also used by some people, who have their ears or lips pierced. Used for treating stomachache and tonsillitis [6, 12, 19, 20]"
+  },
+  {
+    "scientific_name": "Warburgia ugandensis Sprague",
+    "local_name": "",
+    "habit": "T",
+    "habitat": "Transitional montane forest, adjacent woodland",
+    "parts_used": "Stem",
+    "uses": "Used for treating boils and cough [12, 17]"
+  },
+  {
+    "scientific_name": "Withania somnifera L. Dunal",
+    "local_name": "Gizawa",
+    "habit": "S",
+    "habitat": "In cultivations, disturbed places in the highlands, on lake shores, along riverbanks in disturbed places in open woodland",
+    "parts_used": "Leaves",
+    "uses": "Used for treating malaria [12, 13, 17]"
+  },
+  {
+    "scientific_name": "Ziziphus spina-christi (L.) Desf",
+    "local_name": "Qurqura",
+    "habit": "T",
+    "habitat": "Wooded grassland, along dry riverbeds, edges of cultivations and home gardens",
+    "parts_used": "Fruits",
+    "uses": "Used for treatments of stomachache, tonic, for tooth aches, and tumors [21, 13]"
+  }
+
+]
