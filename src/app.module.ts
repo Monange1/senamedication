@@ -17,7 +17,7 @@ import { RootController } from './root.controller';
     ConfigModule.forRoot({
       isGlobal: true,
     }),
-    MongooseModule.forRoot(process.env.MONGODB_URI),
+    MongooseModule.forRoot('mongodb+srv://mkmonange:aLR25U1hZFeBYS42@cluster0.l1888jm.mongodb.net/senamedb?retryWrites=true&w=majority'),
     ScheduleModule.forRoot(),
     AuthModule,
     UserModule,
