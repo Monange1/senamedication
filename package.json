@@ -30,6 +30,7 @@
     "@nestjs/platform-express": "^11.1.1",
     "@nestjs/schedule": "^6.0.0",
     "@nestjs/typeorm": "^11.0.0",
+    "@nestjs/cli": "^11.0.7",
     "bcrypt": "^6.0.0",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.2",
@@ -61,7 +62,6 @@
     "testEnvironment": "node"
   },
   "devDependencies": {
-    "@nestjs/cli": "^11.0.7",
     "@types/mongoose": "^5.11.97",
     "@types/node-fetch": "^2.6.12",
     "ts-node": "^10.9.2"
