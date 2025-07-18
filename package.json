@@ -17,7 +17,8 @@
     "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand",
     "test:e2e": "jest --config ./test/jest-e2e.json",
     "delete-users": "ts-node src/scripts/delete-users.ts",
-    "clear-db": "ts-node src/scripts/clear-db.ts"
+    "clear-db": "ts-node src/scripts/clear-db.ts",
+    "postinstall": "chmod +x ./node_modules/.bin/nest"
   },
   "dependencies": {
     "@nestjs-modules/mailer": "^2.0.2",
