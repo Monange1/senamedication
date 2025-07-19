@@ -16,7 +16,7 @@ export class MedicationReminderService {
   async handleReminders() {
     this.logger.log('Medication reminder cron job running at ' + new Date().toISOString());
     try {
-      const users = await this.userService['userRepository'].find();
+      const users = await this.userService.getAllUsers();
       this.logger.log(`Found ${users.length} users`);
       const now = new Date();
       for (const user of users) {
